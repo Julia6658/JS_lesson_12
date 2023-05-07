@@ -19,5 +19,5 @@
     {console.log(error.message)}<br>
   }<br>
   
- 8.
+ 8. Чкрез метод moment().format('dddd'); 
 
